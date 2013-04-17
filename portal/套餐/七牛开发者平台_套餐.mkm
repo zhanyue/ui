@@ -1,0 +1,20 @@
+<MKM version="2.0" imageFileUrl="file:///H:/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0%ef%bc%88%e6%96%b0%e7%89%88%ef%bc%89/O%e4%ba%86%e7%9a%84/%e5%a5%97%e9%a4%90/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0_%e5%a5%97%e9%a4%90.png">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1078" y="473" textMaxWidth="142" offsetX="25" offsetY="10" text="背景矩形：&#xD;颜色：250 250 250&#xD;外发光：225 225 225，大小8，A75%&#xD;描边：1px 201 204 208&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1116" y="148" textMaxWidth="100" offsetX="23" offsetY="9" text="矩形背景颜色：243 244 246"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1088" y="108" textMaxWidth="115" offsetX="25" offsetY="10" text="1px白线&#xD;颜色：252 252 253"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="970" y="167" textMaxWidth="118" offsetX="28" offsetY="19" text="1px灰线&#xD;颜色221 221 221"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="971" y="165" textMaxWidth="100" offsetX="27" offsetY="18" text="2px淡灰线&#xD;244 244 244"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="522" y="133" textMaxWidth="106" offsetX="21" offsetY="11" text="16加粗&#xD;颜色 70 85 103&#xD;向下1px白色投影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="548" y="134" textMaxWidth="100" offsetX="14" offsetY="8" text="14加粗&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="190" y="243" textMaxWidth="100" offsetX="25" offsetY="10" text="14"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="346" y="219" textMaxWidth="100" offsetX="25" offsetY="10" text="字号24&#xD;32 180 74&#xD;"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="493" y="200" textMaxWidth="100" offsetX="14" offsetY="10" text="16"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="509" y="190" textMaxWidth="100" offsetX="27" offsetY="25" text="30加粗&#xD;238 146 16 "/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="548" y="203" textMaxWidth="100" offsetX="20" offsetY="10" text="14"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="522" y="262" textMaxWidth="100" offsetX="25" offsetY="25" text="14"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="615" y="413" textMaxWidth="100" offsetX="25" offsetY="10" text="1px灰线&#xD;221 221 221"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1049" y="284" textMaxWidth="100" offsetX="25" offsetY="10" text="14&#xD;12 148 222"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="535" y="564" textMaxWidth="156" offsetX="49" offsetY="9" text="按钮样式延用充值按钮的"/>
+  </Marks>
+</MKM>
