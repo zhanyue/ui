@@ -3,7 +3,7 @@
     <TextMark defaultDirection="9" direction="9" color="16711680" x="1256" y="346" textMaxWidth="100" offsetX="25" offsetY="10" text="字号16&#xD;颜色50 50 50"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="1255" y="391" textMaxWidth="100" offsetX="25" offsetY="10" text="字号12&#xD;颜色88 88 88"/>
     <LengthMark direction="12" color="16711680" length="730" x="605" y="864"/>
-    <TextMark defaultDirection="10" direction="10" color="16711680" x="1082" y="781" textMaxWidth="118" offsetX="20" offsetY="12" text="高510px 宽1px&#xD;颜色220 220 220&#xD;"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="1082" y="781" textMaxWidth="118" offsetX="20" offsetY="12" text="高520px 宽1px&#xD;颜色220 220 220&#xD;"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16737792" offsetX="25" offsetY="10" x="697" y="474"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16765081" offsetX="25" offsetY="10" x="813" y="475"/>
     <LengthMark direction="3" color="16711680" length="670" x="640" y="252"/>
