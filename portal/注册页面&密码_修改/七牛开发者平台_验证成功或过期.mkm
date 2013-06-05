@@ -1,0 +1,6 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e6%b3%a8%e5%86%8c%e9%a1%b5%e9%9d%a2%26%e5%af%86%e7%a0%81_%e4%bf%ae%e6%94%b9/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0_%e9%aa%8c%e8%af%81%e6%88%90%e5%8a%9f%e6%88%96%e8%bf%87%e6%9c%9f.png">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1213" y="353" textMaxWidth="100" offsetX="25" offsetY="10" text="验证链接过期的时候是这个"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1212" y="651" textMaxWidth="100" offsetX="25" offsetY="10" text="已成功验证的用户是这个"/>
+  </Marks>
+</MKM>
