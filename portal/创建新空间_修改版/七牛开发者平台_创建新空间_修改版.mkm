@@ -1,7 +1,9 @@
 <MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e5%88%9b%e5%bb%ba%e6%96%b0%e7%a9%ba%e9%97%b4_%e4%bf%ae%e6%94%b9%e7%89%88/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0_%e5%88%9b%e5%bb%ba%e6%96%b0%e7%a9%ba%e9%97%b4_%e4%bf%ae%e6%94%b9%e7%89%88.png">
   <Marks>
-    <TextMark defaultDirection="9" direction="9" color="16711680" x="950" y="362" textMaxWidth="100" offsetX="25" offsetY="10" text="未创建是这个"/>
-    <TextMark defaultDirection="9" direction="9" color="16711680" x="947" y="679" textMaxWidth="100" offsetX="25" offsetY="10" text="创建成功是这个"/>
-    <TextMark defaultDirection="10" direction="10" color="16711680" x="725" y="841" textMaxWidth="147" offsetX="83" offsetY="40" text="这个文字应该换成关闭"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="564" y="266" textMaxWidth="100" offsetX="39" offsetY="26" text="字号12&#xD;颜色88 88 88"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="920" y="315" textMaxWidth="235" offsetX="25" offsetY="10" text="字号：前16后12&#xD;不同情况颜色有变化，请参照原型说明"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="715" y="651" textMaxWidth="100" offsetX="25" offsetY="10" text="14&#xD;50 50 50"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="727" y="690" textMaxWidth="100" offsetX="25" offsetY="10" text="12&#xD;88 88 88"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="748" y="356" textMaxWidth="100" offsetX="25" offsetY="10" text="14&#xD;88 88 88"/>
   </Marks>
 </MKM>
