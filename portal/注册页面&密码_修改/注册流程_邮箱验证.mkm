@@ -1,0 +1,21 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e6%b3%a8%e5%86%8c%e9%a1%b5%e9%9d%a2%26%e5%af%86%e7%a0%81_%e4%bf%ae%e6%94%b9/%e6%b3%a8%e5%86%8c%e6%b5%81%e7%a8%8b_%e9%82%ae%e7%ae%b1%e9%aa%8c%e8%af%81.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="455" x="1283" y="260"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1281" y="701" textMaxWidth="143" offsetX="139" offsetY="139" text="该宽高描述未计算描边"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="789" y="294" textMaxWidth="100" offsetX="25" offsetY="10" text="字号18&#xD;颜色50 50 50"/>
+    <LengthMark direction="3" color="16711680" length="30" x="756" y="260"/>
+    <LengthMark direction="3" color="16711680" length="30" x="755" y="309"/>
+    <LengthMark direction="3" color="16711680" length="15" x="743" y="378"/>
+    <LengthMark direction="3" color="16711680" length="15" x="738" y="533"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="834" y="345" textMaxWidth="100" offsetX="25" offsetY="10" text="字号14&#xD;颜色 50 50 50"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1059" y="345" textMaxWidth="100" offsetX="25" offsetY="10" text="颜色12 148 222"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15790320" offsetX="25" offsetY="10" x="1053" y="424"/>
+    <LengthMark direction="3" color="16711680" length="140" x="1183" y="393"/>
+    <LengthMark direction="12" color="16711680" length="532" x="694" y="444"/>
+    <LengthMark direction="12" color="16711680" length="99" x="1226" y="468"/>
+    <LengthMark direction="12" color="16711680" length="99" x="595" y="469"/>
+    <LengthMark direction="12" color="16711680" length="730" x="595" y="700"/>
+    <LengthMark direction="3" color="16711680" length="20" x="710" y="549"/>
+    <LengthMark direction="3" color="16711680" length="10" x="750" y="581"/>
+  </Marks>
+</MKM>
