@@ -1,0 +1,22 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e7%a9%ba%e9%97%b4%e8%ae%be%e7%bd%ae_%e4%bf%ae%e6%94%b9%e7%89%88/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0_%e7%a9%ba%e9%97%b4%e8%ae%be%e7%bd%ae%e4%bf%ae%e6%94%b9%e7%89%8802_%e5%8d%b1%e9%99%a9%e6%93%8d%e4%bd%9c.png">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="571" y="225" textMaxWidth="100" offsetX="116" offsetY="76" text="红色渐变：f87070到e03f3f"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="818" y="479" textMaxWidth="100" offsetX="25" offsetY="10" text="描边2&#xD;颜色#e03f3f"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="418" y="284" textMaxWidth="100" offsetX="71" offsetY="23" text="字体颜色#323232"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="634" y="280" textMaxWidth="100" offsetX="25" offsetY="10" text="字号16"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="615" y="326" textMaxWidth="100" offsetX="25" offsetY="10" text="字号12"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="583" y="443" textMaxWidth="120" offsetX="25" offsetY="10" text="1px线 颜色#f0f0f0"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="761" y="251" textMaxWidth="100" offsetX="37" offsetY="15" text="1px线&#xD;颜色#990000"/>
+    <LengthMark direction="3" color="16711680" length="282" x="339" y="213.5"/>
+    <LengthMark direction="12" color="16711680" length="515" x="324" y="418"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="422" y="230" textMaxWidth="100" offsetX="25" offsetY="10" text="14字号&#xD;"/>
+    <LengthMark direction="3" color="16711680" length="51" x="755" y="442"/>
+    <LengthMark direction="3" color="16711680" length="36" x="712" y="216"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16316664" offsetX="25" offsetY="10" x="396" y="465"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="715" y="342"/>
+    <LengthMark direction="3" color="16711680" length="28" x="621" y="453"/>
+    <LengthMark direction="3" color="16711680" length="88" x="641" y="435"/>
+    <LengthMark direction="3" color="16711680" length="29" x="585" y="363"/>
+    <LengthMark direction="12" color="16711680" length="428" x="368" y="367"/>
+  </Marks>
+</MKM>
