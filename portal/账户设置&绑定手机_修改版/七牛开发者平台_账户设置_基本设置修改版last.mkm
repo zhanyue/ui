@@ -1,0 +1,24 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae%26%e7%bb%91%e5%ae%9a%e6%89%8b%e6%9c%ba_%e4%bf%ae%e6%94%b9%e7%89%88/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0_%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae_%e5%9f%ba%e6%9c%ac%e8%ae%be%e7%bd%ae%e4%bf%ae%e6%94%b9%e7%89%88last.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="207" x="973" y="218"/>
+    <LengthMark direction="3" color="16711680" length="41" x="944" y="382"/>
+    <LengthMark direction="3" color="16711680" length="36" x="987" y="220"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1002" y="383" textMaxWidth="100" offsetX="9" offsetY="9" text="这里有2条线&#xD;一灰一白"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1002" y="258" textMaxWidth="86" offsetX="12" offsetY="8" text="这里一条灰线"/>
+    <LengthMark direction="3" color="16711680" length="26" x="708" y="307"/>
+    <LengthMark direction="12" color="16711680" length="78" x="700" y="328"/>
+    <LengthMark direction="12" color="16711680" length="78" x="700" y="367"/>
+    <LengthMark direction="3" color="16711680" length="26" x="705" y="363"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="732" y="299" textMaxWidth="100" offsetX="23" offsetY="23" text="按钮的宽高测量没有包含描边"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="375" y="249" textMaxWidth="100" offsetX="25" offsetY="10" text="字号20&#xD;颜色#465567"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="462" y="305" textMaxWidth="100" offsetX="25" offsetY="10" text="字号14&#xD;颜色#585858"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="406" y="308" textMaxWidth="100" offsetX="28" offsetY="14" text="字号14&#xD;颜色#323232"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="573" y="419" textMaxWidth="100" offsetX="25" offsetY="10" text="字号12 加粗&#xD;颜色#585858"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="614" y="471" textMaxWidth="100" offsetX="25" offsetY="10" text="字号12&#xD;颜色#787878"/>
+    <LengthMark direction="3" color="16711680" length="15" x="510" y="423"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15856113" offsetX="25" offsetY="10" x="712" y="429"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="593" y="547" textMaxWidth="100" offsetX="25" offsetY="10" text="b4b4b4"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="776" y="506" textMaxWidth="100" offsetX="25" offsetY="10" text="border&#xD;e4e4e4&#xD;"/>
+    <LengthMark direction="3" color="16711680" length="20" x="546" y="524"/>
+  </Marks>
+</MKM>
