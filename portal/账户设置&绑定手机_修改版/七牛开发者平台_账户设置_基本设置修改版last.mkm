@@ -20,5 +20,8 @@
     <TextMark defaultDirection="9" direction="9" color="16711680" x="593" y="547" textMaxWidth="100" offsetX="25" offsetY="10" text="b4b4b4"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="776" y="506" textMaxWidth="100" offsetX="25" offsetY="10" text="border&#xD;e4e4e4&#xD;"/>
     <LengthMark direction="3" color="16711680" length="20" x="546" y="524"/>
+    <LengthMark direction="3" color="16711680" length="67" x="434" y="545"/>
+    <LengthMark direction="3" color="16711680" length="16" x="504" y="545"/>
+    <LengthMark direction="3" color="16711680" length="15" x="499" y="597"/>
   </Marks>
 </MKM>
