@@ -1,0 +1,33 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/BruceZhan/Desktop/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0_%e7%a9%ba%e9%97%b4_%e6%8a%a5%e8%a1%a8.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="44" x="601" y="257"/>
+    <LengthMark direction="12" color="16711680" length="15" x="361" y="277"/>
+    <LengthMark direction="12" color="16711680" length="15" x="1105" y="277"/>
+    <LengthMark direction="12" color="16711680" length="20" x="909" y="279"/>
+    <LengthMark direction="12" color="16711680" length="10" x="361" y="389"/>
+    <LengthMark direction="12" color="16711680" length="10" x="1110" y="423"/>
+    <LengthMark direction="12" color="16711680" length="10" x="350" y="618"/>
+    <LengthMark direction="12" color="16711680" length="10" x="1121" y="571"/>
+    <LengthMark direction="3" color="16711680" length="50" x="565" y="353"/>
+    <LengthMark direction="3" color="16711680" length="50" x="627" y="404"/>
+    <LengthMark direction="3" color="16711680" length="40" x="574" y="455"/>
+    <LengthMark direction="3" color="16711680" length="40" x="612" y="496"/>
+    <LengthMark direction="3" color="16711680" length="40" x="635" y="537"/>
+    <LengthMark direction="3" color="16711680" length="40" x="677" y="578"/>
+    <LengthMark direction="3" color="16711680" length="34" x="705" y="619"/>
+    <LengthMark direction="12" color="16711680" length="220" x="372" y="743"/>
+    <LengthMark direction="3" color="16711680" length="124" x="493" y="675"/>
+    <LengthMark direction="12" color="16711680" length="37" x="593" y="725"/>
+    <LengthMark direction="3" color="16711680" length="20" x="533" y="654"/>
+    <LengthMark direction="3" color="16711680" length="10" x="399" y="800"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="658" y="260" textMaxWidth="100" offsetX="25" offsetY="10" text="1px fafafa"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="705" y="372" textMaxWidth="100" offsetX="25" offsetY="10" text="16"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="767" y="380" textMaxWidth="100" offsetX="25" offsetY="10" text="12"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="432" y="815" textMaxWidth="100" offsetX="25" offsetY="10" text="14"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="476" y="816" textMaxWidth="100" offsetX="25" offsetY="10" text="12"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="836" y="376" textMaxWidth="100" offsetX="25" offsetY="10" text="#1e4472"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="410" y="331" textMaxWidth="100" offsetX="25" offsetY="10" text="14px   #323232"/>
+    <LengthMark direction="3" color="16711680" length="10" x="413" y="341"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="849" y="753" textMaxWidth="100" offsetX="25" offsetY="10" text="e6e6e6"/>
+  </Marks>
+</MKM>
