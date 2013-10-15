@@ -1,0 +1,54 @@
+<MKM version="2.0" imageFileUrl="file:///H:/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/%e5%bc%80%e5%8f%91%e8%80%85%e4%b8%ad%e5%bf%83%e9%a1%b5%e9%9d%a2/docs_home_final.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="20" x="657" y="230"/>
+    <LengthMark direction="12" color="16711680" length="20" x="510" y="151"/>
+    <LengthMark direction="3" color="16711680" length="20" x="454" y="39"/>
+    <LengthMark direction="12" color="16711680" length="20" x="837" y="134"/>
+    <LengthMark direction="12" color="16711680" length="20" x="837" y="455"/>
+    <LengthMark direction="12" color="16711680" length="200" x="203" y="13"/>
+    <LengthMark direction="12" color="16711680" length="30" x="427" y="16"/>
+    <LengthMark direction="12" color="16711680" length="20" x="1093" y="18"/>
+    <LengthMark direction="12" color="16711680" length="20" x="1013" y="14"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="221" y="85" textMaxWidth="230" offsetX="9" offsetY="8" text="上描边1px，颜色235 235 235&#xD;左右下描边各1px，颜色230 230 230"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="240" y="230" textMaxWidth="176" offsetX="37" offsetY="19" text="card最下面有1px投影&#xD;颜色230 230 230，透明度50%"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="415" y="35" textMaxWidth="115" offsetX="24" offsetY="8" text="下划线3px&#xD;颜色183 230 255"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="789" y="24" textMaxWidth="157" offsetX="66" offsetY="17" text="搜索框透明背景&#xD;1px描边白色透明度50%"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="700" y="23" textMaxWidth="100" offsetX="25" offsetY="10" text="白色不透明度70%"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1153" y="21" textMaxWidth="100" offsetX="25" offsetY="10" text="白色透明度70%"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="824" y="24" textMaxWidth="229" offsetX="75" offsetY="75" text="当搜索框激活时文字和icon不透明100%，&#xD;描边不透明度由50变为80%"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="40" y="24" textMaxWidth="100" offsetX="25" offsetY="10" text="12 148 222"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="321" y="125" textMaxWidth="100" offsetX="36" offsetY="22" text="14px bold &#xD;12 148 222"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="319" y="160" textMaxWidth="100" offsetX="25" offsetY="10" text="12px&#xD;88 88 88"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="281" y="287" textMaxWidth="100" offsetX="25" offsetY="10" text="16px bold&#xD;38 38 38"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="781" y="284" textMaxWidth="100" offsetX="31" offsetY="8" text="12px&#xD;153 153 153"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="328" y="329" textMaxWidth="100" offsetX="25" offsetY="10" text="12px bold&#xD;64 64 64 "/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="487" y="352" textMaxWidth="100" offsetX="36" offsetY="25" text="12px&#xD;64 64 64"/>
+    <LengthMark direction="3" color="16711680" length="25" x="267" y="375"/>
+    <LengthMark direction="3" color="16711680" length="25" x="248" y="401"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16119285" offsetX="25" offsetY="10" x="59" y="535"/>
+    <LengthMark direction="12" color="16711680" length="25" x="204" y="334"/>
+    <LengthMark direction="12" color="16711680" length="25" x="204" y="288"/>
+    <LengthMark direction="3" color="16711680" length="25" x="260" y="250"/>
+    <LengthMark direction="3" color="16711680" length="30" x="264" y="290"/>
+    <LengthMark direction="12" color="16711680" length="25" x="810" y="400"/>
+    <LengthMark direction="3" color="16711680" length="25" x="216" y="388"/>
+    <LengthMark direction="12" color="16711680" length="25" x="859" y="561"/>
+    <LengthMark direction="12" color="16711680" length="25" x="1138" y="561"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="898" y="331" textMaxWidth="100" offsetX="25" offsetY="10" text="13px bold&#xD;64 64 64"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="900" y="594" textMaxWidth="100" offsetX="25" offsetY="10" text="12px bold&#xD;64 64 64"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="956" y="639" textMaxWidth="100" offsetX="25" offsetY="10" text="12px&#xD;64 64 64"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="514" y="1256" textMaxWidth="100" offsetX="25" offsetY="10" text="153 153 153"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="481" y="1228" textMaxWidth="100" offsetX="25" offsetY="10" text="120 120 120"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="613" y="1195" textMaxWidth="100" offsetX="25" offsetY="10" text="1px线&#xD;240 240 240"/>
+    <LengthMark direction="3" color="16711680" length="30" x="867" y="1193"/>
+    <LengthMark direction="3" color="16711680" length="15" x="869" y="1234"/>
+    <LengthMark direction="3" color="16711680" length="15" x="875" y="1261"/>
+    <LengthMark direction="3" color="16711680" length="20" x="690" y="1338"/>
+    <LengthMark direction="3" color="16711680" length="20" x="662" y="1359"/>
+    <LengthMark direction="3" color="16711680" length="30" x="678" y="1390"/>
+    <LengthMark direction="3" color="16711680" length="40" x="485" y="1153"/>
+    <LengthMark direction="12" color="16711680" length="196" x="267" y="1239"/>
+    <LengthMark direction="12" color="16711680" length="64" x="204" y="1240"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="800" y="1361" textMaxWidth="100" offsetX="25" offsetY="10" text="这根线切给你"/>
+  </Marks>
+</MKM>
