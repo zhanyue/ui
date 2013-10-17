@@ -15,7 +15,7 @@
     <TextMark defaultDirection="10" direction="10" color="16711680" x="789" y="24" textMaxWidth="157" offsetX="66" offsetY="17" text="搜索框透明背景&#xD;1px描边白色透明度50%"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="700" y="23" textMaxWidth="100" offsetX="25" offsetY="10" text="白色不透明度70%"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="1153" y="21" textMaxWidth="100" offsetX="25" offsetY="10" text="白色透明度70%"/>
-    <TextMark defaultDirection="9" direction="9" color="16711680" x="824" y="24" textMaxWidth="229" offsetX="75" offsetY="75" text="当搜索框激活时文字和icon不透明100%，&#xD;描边不透明度由50变为80%"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="824" y="24" textMaxWidth="229" offsetX="43" offsetY="43" text="当搜索框激活时文字和icon不透明100%，&#xD;描边不透明度由50变为80%"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="40" y="24" textMaxWidth="100" offsetX="25" offsetY="10" text="12 148 222"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="321" y="125" textMaxWidth="100" offsetX="36" offsetY="22" text="14px bold &#xD;12 148 222"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="319" y="160" textMaxWidth="100" offsetX="25" offsetY="10" text="12px&#xD;88 88 88"/>
