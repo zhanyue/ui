@@ -1,0 +1,15 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e7%ac%ac%e4%b8%89%e6%96%b9%e8%b4%a6%e5%8f%b7%e7%99%bb%e5%bd%95/%e7%ac%ac%e4%b8%89%e6%96%b9%e8%b4%a6%e5%8f%b7%e6%8e%a5%e5%85%a52.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="25" x="363" y="130"/>
+    <LengthMark direction="3" color="16711680" length="25" x="340" y="168"/>
+    <LengthMark direction="3" color="16711680" length="25" x="473" y="194"/>
+    <LengthMark direction="3" color="16711680" length="20" x="501" y="230"/>
+    <LengthMark direction="3" color="16711680" length="20" x="506" y="286"/>
+    <LengthMark direction="3" color="16711680" length="40" x="547" y="342"/>
+    <LengthMark direction="3" color="16711680" length="10" x="682" y="342"/>
+    <LengthMark direction="12" color="16711680" length="10" x="418" y="266"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="465" y="158" textMaxWidth="100" offsetX="25" offsetY="10" text="14px&#xD;#465567"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="493" y="215" textMaxWidth="100" offsetX="25" offsetY="10" text="12px；#465567"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="395" y="267" textMaxWidth="100" offsetX="30" offsetY="15" text="14px&#xD;#585858"/>
+  </Marks>
+</MKM>
