@@ -1,0 +1,18 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e6%ba%90%e7%ab%99%e5%8a%a0%e9%80%9f_robots/%e6%ba%90%e7%ab%99%e5%8a%a0%e9%80%9f_robots.png">
+  <Marks>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="489" y="232" textMaxWidth="100" offsetX="82" offsetY="51" text=""/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="488" y="363" textMaxWidth="100" offsetX="83" offsetY="76" text="这里的间距相同"/>
+    <LengthMark direction="3" color="16711680" length="10" x="398" y="375"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="704" y="376" textMaxWidth="100" offsetX="25" offsetY="10" text="1px分隔线&#xD;#e6e6e6"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="476" y="391" textMaxWidth="121" offsetX="25" offsetY="10" text="12px #323232 加粗"/>
+    <LengthMark direction="3" color="16711680" length="10" x="419" y="396"/>
+    <LengthMark direction="3" color="16711680" length="30" x="371" y="438"/>
+    <LengthMark direction="3" color="16711680" length="20" x="370" y="481"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="370" y="900" textMaxWidth="120" offsetX="25" offsetY="10" text="12px #323232 bold"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="410" y="905" textMaxWidth="100" offsetX="17" offsetY="7" text="加粗 成功色"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="590" y="902" textMaxWidth="100" offsetX="151" offsetY="23" text="链接色"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="498" y="412" textMaxWidth="100" offsetX="25" offsetY="10" text="12px #a0a0a0"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="598" y="335" textMaxWidth="100" offsetX="17" offsetY="7" text="12px&#xD;a0a0a0"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="499" y="476" textMaxWidth="100" offsetX="50" offsetY="11" text="12px&#xD;#323232"/>
+  </Marks>
+</MKM>
