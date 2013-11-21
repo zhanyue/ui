@@ -1,0 +1,23 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e8%b4%a2%e5%8a%a1_%e4%bc%98%e6%83%a0%e7%a0%81/%e8%b4%a2%e5%8a%a1_%e5%85%85%e5%80%bc_%e4%bc%98%e6%83%a0%e7%a0%812.png">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="1120" y="389"/>
+    <LengthMark direction="3" color="16711680" length="25" x="825" y="278"/>
+    <LengthMark direction="3" color="16711680" length="15" x="836" y="315"/>
+    <LengthMark direction="3" color="16711680" length="25" x="812" y="453"/>
+    <LengthMark direction="3" color="16711680" length="15" x="787" y="489"/>
+    <LengthMark direction="3" color="16711680" length="20" x="823" y="505"/>
+    <LengthMark direction="3" color="16711680" length="20" x="816" y="600"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15132390" offsetX="25" offsetY="10" x="1039" y="330"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="866" y="305" textMaxWidth="100" offsetX="50" offsetY="16" text="14px  bold &#xD;#465567"/>
+    <LengthMark direction="3" color="16711680" length="20" x="818" y="537"/>
+    <LengthMark direction="12" color="16711680" length="128" x="849" y="524"/>
+    <LengthMark direction="3" color="16711680" length="24" x="884" y="519"/>
+    <LengthMark direction="12" color="16711680" length="104" x="1035" y="555"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1082" y="530" textMaxWidth="100" offsetX="25" offsetY="10" text="#e5941f"/>
+    <LengthMark direction="12" color="16711680" length="68" x="1150" y="556"/>
+    <LengthMark direction="3" color="16711680" length="24" x="1164" y="550"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1184" y="541" textMaxWidth="246" offsetX="62" offsetY="62" text="PS：所有矩形的长宽测量不包含描边"/>
+    <LengthMark direction="12" color="16711680" length="20" x="993" y="567"/>
+    <LengthMark direction="12" color="16711680" length="20" x="1014" y="557"/>
+  </Marks>
+</MKM>
