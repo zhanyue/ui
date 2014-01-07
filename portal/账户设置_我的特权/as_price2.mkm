@@ -1,0 +1,24 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae_%e6%88%91%e7%9a%84%e7%89%b9%e6%9d%83/as_price2.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="157" x="887" y="386"/>
+    <LengthMark direction="12" color="16711680" length="514" x="456" y="397"/>
+    <LengthMark direction="12" color="16711680" length="106" x="456" y="319"/>
+    <LengthMark direction="3" color="16711680" length="74" x="471" y="312"/>
+    <LengthMark direction="12" color="16711680" length="60" x="395" y="343"/>
+    <LengthMark direction="3" color="16711680" length="30" x="506" y="200"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="545" y="234" textMaxWidth="100" offsetX="25" offsetY="10" text="颜色#323232&#xD;16px加粗"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="687" y="259" textMaxWidth="100" offsetX="25" offsetY="10" text="12px，时间加粗               "/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="650" y="373" textMaxWidth="100" offsetX="25" offsetY="10" text="12px bold&#xD;#0c94de"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="530" y="419" textMaxWidth="122" offsetX="25" offsetY="10" text="12px bold #323232"/>
+    <LengthMark direction="3" color="16711680" length="30" x="479" y="544"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="509" y="584" textMaxWidth="134" offsetX="25" offsetY="10" text="16px bold #323232"/>
+    <TextMark defaultDirection="5" direction="5" color="16711935" x="463" y="586" textMaxWidth="131" offsetX="148" offsetY="54" text="这里的“优惠活动”文字改为“我的特权”"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="554" y="444" textMaxWidth="100" offsetX="25" offsetY="10" text="12px 不加粗 颜色#323232"/>
+    <LengthMark direction="3" color="16711680" length="28" x="650" y="798"/>
+    <LengthMark direction="12" color="16711680" length="200" x="613" y="803"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="688" y="814" textMaxWidth="100" offsetX="31" offsetY="10" text="12px bodl"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="804" y="821" textMaxWidth="100" offsetX="25" offsetY="10" text="这个按钮样式也是通用的，很多地方都有"/>
+    <LengthMark direction="3" color="16711680" length="25" x="522" y="286"/>
+    <TextMark defaultDirection="9" direction="9" color="16711935" x="900" y="238" textMaxWidth="302" offsetX="25" offsetY="10" text="除了这张注释图还有一张专门注释了tip的布局和样式&#xD;记得看"/>
+  </Marks>
+</MKM>
