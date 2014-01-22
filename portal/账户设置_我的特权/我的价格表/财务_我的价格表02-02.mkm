@@ -1,0 +1,11 @@
+<MKM version="2.0" imageFileUrl="file:///H:/QBox/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/portal/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae_%e6%88%91%e7%9a%84%e7%89%b9%e6%9d%83/%e6%88%91%e7%9a%84%e4%bb%b7%e6%a0%bc%e8%a1%a8/%e8%b4%a2%e5%8a%a1_%e6%88%91%e7%9a%84%e4%bb%b7%e6%a0%bc%e8%a1%a802-02.png">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="523" y="338" textMaxWidth="157" offsetX="25" offsetY="10" text="12px #323232 bold"/>
+    <LengthMark direction="12" color="16711680" length="547" x="407" y="367"/>
+    <LengthMark direction="3" color="16711680" length="15" x="564" y="502"/>
+    <LengthMark direction="3" color="16711680" length="20" x="564" y="574"/>
+    <LengthMark direction="3" color="16711680" length="88" x="517" y="595"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="489" y="380" textMaxWidth="119" offsetX="25" offsetY="10" text="12px #323232 bold"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="516" y="408" textMaxWidth="100" offsetX="25" offsetY="10" text="12px #585858 "/>
+  </Marks>
+</MKM>
