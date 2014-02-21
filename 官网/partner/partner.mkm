@@ -1,0 +1,19 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/BruceZhan/Desktop/partner/partner.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="118" x="701" y="445"/>
+    <LengthMark direction="12" color="16711680" length="158" x="694" y="537"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15461355" offsetX="25" offsetY="10" x="735" y="444"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15790320" offsetX="25" offsetY="10" x="721" y="584"/>
+    <LengthMark direction="3" color="16711680" length="20" x="823" y="564"/>
+    <LengthMark direction="12" color="16711680" length="30" x="853" y="471"/>
+    <LengthMark direction="3" color="16711680" length="40" x="837" y="403"/>
+    <LengthMark direction="3" color="16711680" length="20" x="838" y="585"/>
+    <LengthMark direction="3" color="16711680" length="15" x="919" y="474.25"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="918" y="456" textMaxWidth="100" offsetX="33" offsetY="25" text="16px bold"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1084" y="496" textMaxWidth="100" offsetX="25" offsetY="10" text="14px"/>
+    <LengthMark direction="12" color="16711680" length="30" x="663" y="485"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3355443" offsetX="25" offsetY="10" x="905" y="460"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6710886" offsetX="25" offsetY="10" x="951" y="490"/>
+    <LengthMark direction="12" color="16711680" length="530" x="883" y="566"/>
+  </Marks>
+</MKM>
