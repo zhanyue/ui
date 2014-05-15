@@ -1,0 +1,32 @@
+<MKM version="2.0" imageFileUrl="file:///H:/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0%e6%96%b0%e7%89%882.0/O%e4%ba%86%e7%9a%84/%e5%ad%90%e8%b4%a6%e5%8f%b7/%e4%b8%83%e7%89%9b%e5%bc%80%e5%8f%91%e8%80%85%e5%b9%b3%e5%8f%b0_%e5%ad%90%e8%b4%a6%e5%8f%b71.png">
+  <Marks>
+    <LengthMark x="1081" y="105" color="16711680" length="90" direction="3"/>
+    <LengthMark x="471" y="180" color="16711680" length="978" direction="12"/>
+    <LengthMark x="504" y="105" color="16711680" length="26" direction="3"/>
+    <LengthMark x="471" y="131" color="16711680" length="25" direction="12"/>
+    <LengthMark x="471" y="235" color="16711680" length="25" direction="12"/>
+    <LengthMark x="471" y="286" color="16711680" length="25" direction="12"/>
+    <LengthMark x="496" y="299" color="16711680" length="928" direction="12"/>
+    <LengthMark x="653" y="271" color="16711680" length="36" direction="3"/>
+    <LengthMark x="693" y="363" color="16711680" length="36" direction="3"/>
+    <LengthMark x="625" y="399" color="16711680" length="5" direction="3"/>
+    <TextMark x="623" y="402" color="16711680" offsetX="134" offsetY="2" defaultDirection="6" direction="6" textMaxWidth="176" text="每一行高度36 &#xD;每一行和每一行之间间距5"/>
+    <TextMark x="562" y="131" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="16px bold&#xD;#323232"/>
+    <TextMark x="733" y="148" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="12px  #323232"/>
+    <LengthMark x="539" y="170" color="16711680" length="25" direction="3"/>
+    <LengthMark x="575" y="196" color="16711680" length="25" direction="3"/>
+    <TextMark x="726" y="284" color="16711680" offsetX="41" offsetY="17" defaultDirection="9" direction="9" textMaxWidth="100" text="#323232&#xD;12px"/>
+    <TextMark x="1250" y="334" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="12px #585858"/>
+    <LengthMark x="622" y="221" color="16711680" length="32" direction="3"/>
+    <LengthMark x="497" y="246" color="16711680" length="140" direction="12"/>
+    <LengthMark x="1140" y="247" color="16711680" length="283" direction="12"/>
+    <LengthMark x="1265" y="222" color="16711680" length="30" direction="3"/>
+    <ColorMark x="1122" y="195" color="16711680" offsetX="68" offsetY="31" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="1302" y="221" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="1294" y="278" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="1298" y="368" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="1363" y="375" color="16711680" offsetX="146" offsetY="17" defaultDirection="9" direction="9" textMaxWidth="100" text="边框#999&#xD;w24   h22"/>
+    <TextMark x="685" y="229" color="16711680" offsetX="290" offsetY="14" defaultDirection="5" direction="5" textMaxWidth="260" text="不算描边w48h24&#xD;字体大小12px白色&#xD;样式用密钥里的启用和禁用的按钮样式就行，字体不加阴影&#xD;启用禁用2个按钮同时存在间距5px"/>
+    <LengthMark x="638" y="236" color="16711680" length="20" direction="12"/>
+  </Marks>
+</MKM>
